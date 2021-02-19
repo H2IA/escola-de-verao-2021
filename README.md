@@ -21,4 +21,4 @@ O evento ocorre dos dias 22 a 26 de Fevereiro de 2021, das 18h as 21h, com encon
 
 ### Notebooks
 
-Na pasta `notebooks/` deste repositório serão disponibilizados os *notebooks* em formato produzidos durante o curso.
+Na pasta `notebooks/` deste repositório serão disponibilizados os *notebooks* em formato `.ipynb` produzidos durante o curso.
